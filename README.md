@@ -1,4 +1,4 @@
-# Agentic AI — 1-Week Internship Project
+# Agentic AI : 1-Week Internship Project
 
 A 7-day build-up from raw LLM calls to a full RAG agent with tools, memory, and guardrails — running free and local via Ollama (Llama 3.1).
 
