@@ -1,0 +1,4 @@
+Extract fields from the text and reply only with valid json
+{"name: "...", "company": "...", "amount": "..."}
+
+Text:{text}
