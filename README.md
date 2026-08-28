@@ -1,6 +1,6 @@
 # Agentic AI : 1-Week Internship Project
 
-A 7-day build-up from raw LLM calls to a full RAG agent with tools, memory, and guardrails — running free and local via Ollama (Llama 3.1).
+A 7-day build-up from raw LLM calls to a full RAG agent with tools, memory, and guardrails - running free and local via Ollama (Llama 3.1).
 
 ## What's inside
 
@@ -34,7 +34,7 @@ ollama pull nomic-embed-text
 streamlit run app.py
 ```
 
-Chat with your PDFs (`doc1–3.pdf`), ask calculations, get cited sources — all in one UI.
+Chat with PDFs (`doc1–3.pdf`), ask calculations, get cited sources - all in one UI.
 
 ## Guardrails included
 
@@ -45,7 +45,7 @@ Chat with your PDFs (`doc1–3.pdf`), ask calculations, get cited sources — al
 
 ## Results
 
-- ~90–100% accuracy on 25-case eval suite
+- ~95% accuracy on 25-case eval suite
 - 80%+ cost reduction via concise prompting
 - $0 spent (fully local)
 
